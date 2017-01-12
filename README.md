@@ -6,7 +6,7 @@ This project was undertaken as part of the Machine Learning Nanodegree Program
 offered by Udacity (https://www.udacity.com).  It is a supervised learning problem
 that uses data sets acquired from the US Geological Survey 
 and USFS, the forest types, our the targeted predication results, was determined by USFS. 
-The goal is to predict an integer classification for the forest cover type. The seven types are:
+The goal is to predict an integer classification for the forest cover type.
 
 
 ## Requirements
