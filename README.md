@@ -4,17 +4,9 @@ Capstone project submission for Google MachineLearning course in Udacity
 ## Abstract
 This project was undertaken as part of the Machine Learning Nanodegree Program
 offered by Udacity (https://www.udacity.com).  It is a supervised learning problem
-that uses data sets acquired data/features was derived from the US Geological Survey 
+that uses data sets acquired from the US Geological Survey 
 and USFS, the forest types, our the targeted predication results, was determined by USFS. 
-The study area where the data derived from includes four wilderness areas located in the Roosevelt National Forest of northern Colorado. Each observation is a 30m x 30m patch. Our goal is to predict an integer classification for the forest cover type. The seven types are:
-
-1 - Spruce/Fir
-2 - Lodgepole Pine
-3 - Ponderosa Pine
-4 - Cottonwood/Willow
-5 - Aspen
-6 - Douglas-fir
-7 - Krummholz
+The goal is to predict an integer classification for the forest cover type. The seven types are:
 
 
 ## Requirements
